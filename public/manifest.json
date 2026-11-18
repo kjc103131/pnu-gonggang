@@ -1,0 +1,15 @@
+{
+  "name": "부산대 공강 구조대",
+  "short_name": "공강구조대",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#005BAC",
+  "theme_color": "#005BAC",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
